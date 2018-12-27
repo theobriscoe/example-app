@@ -1,0 +1,33 @@
+Create Build Application
+[✔] SFTP file to AWS instance
+[✔] Run, View results
+
+Code Repository
+[] Push Code to Guthub
+
+Continuous Integration
+[] Project of CI Server
+[] Push to AWS S3
+[] Push to
+
+Continuous Deployment
+[] AWS Code Deploy
+
+
+
+Docker Container
+
+
+
+[] Log to file
+[] Log aggeration such as splunk
+[] Maven assembly
+
+
+Spring Boot
+[] Get index page to show up
+
+
+UI
+Bootstrap
+Template
